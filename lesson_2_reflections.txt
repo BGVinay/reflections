@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+creates a hidden folder that will store the metadata.
+This is needed inorder to chcek the status & also the commits of the repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is like a buffer, where we use it before commiting the changes to working directory.
