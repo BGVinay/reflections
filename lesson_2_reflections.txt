@@ -4,3 +4,13 @@ This is needed inorder to chcek the status & also the commits of the repository
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is like a buffer, where we use it before commiting the changes to working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+as said eralier, this is a buffer & helps to ensure before commiting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you are creating same game with diff langauges
+also, when you want diff branch for each stage(DEV, UAT, PROD)
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to maintain a stages. DEV, UAT, PROD
