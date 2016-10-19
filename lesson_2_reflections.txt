@@ -14,3 +14,12 @@ also, when you want diff branch for each stage(DEV, UAT, PROD)
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to maintain a stages. DEV, UAT, PROD
+
+How do the diagrams help you visualize the branch structure?
+helps you to know where are the changes & commit rechability
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+gets both the changes merged & provides one full set
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+can't resolve conflicts with auto
